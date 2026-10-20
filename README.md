@@ -1,1 +1,1 @@
-# projeto_em_equipe
+# Exemplo de trabalho feito em equipe
